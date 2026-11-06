@@ -44,7 +44,3 @@ Source code: [GitHub Repository](https://github.com/1220874/sem5pi_2024_25_g039)
 This project gave me experience working across the full software development process, including requirements, frontend development, backend services, database design, integration, and testing.
 
 It also strengthened my ability to work on larger projects where several technical components need to operate together reliably.
-
-## Note
-
-The original source code is no longer available. This repository documents the project, its architecture, technologies, and my contribution.
