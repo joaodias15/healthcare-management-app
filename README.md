@@ -8,6 +8,10 @@ The objective of this project was to build a web platform capable of supporting 
 
 The project was developed as part of an academic multidisciplinary project.
 
+## Overview
+
+Source code: [GitHub Repository](https://github.com/1220874/sem5pi_2024_25_g039)
+
 ## My Contribution
 
 - Developed frontend components using React
